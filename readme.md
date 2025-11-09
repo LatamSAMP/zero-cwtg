@@ -2,6 +2,9 @@
 
 A lightweight and multilanguage gamemode for Clan Wars and Training matches. Ready to use out of the box with full configuration support.
 
+<img width="1909" height="1007" alt="image" src="https://github.com/user-attachments/assets/6255288c-1a33-4fbb-958f-17d31be2152f" />
+
+
 ## Installation
 
 1. Download and extract the latest release
