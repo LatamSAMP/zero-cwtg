@@ -72,3 +72,19 @@ Everything is configurable from `scriptfiles/config.ini` without recompiling.
 - **Multi-language:** Fully configurable language system
 - **Anti-Cheat:** [Black Diamond](https://github.com/edgyaf/samp-ac-black-diamond)
 
+### Includes
+- `a_mysql`
+- `LangPlus`
+- `Dini2`
+- `strlib`
+- `samp_bcrypt`
+- `easyDialog`
+- `Pawn.CMD`
+- `AC_Black_Diamond`
+- `weapon-config`
+
+
+## Support
+If you find a bug or need help
+- **Discord:** Contact `ne0de` or `troniq`
+- **GitHub Issues:** [Open an issue](https://github.com/LatamSAMP/zero-cwtg/issues)
