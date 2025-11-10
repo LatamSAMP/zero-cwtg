@@ -8,7 +8,7 @@ Ready to use out of the box with full configuration support.
 </p>
 
 <div align="center">
-<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6255288c-1a33-4fbb-958f-17d31be2152f" />
+<img width="1181" height="647" alt="image" src="https://github.com/user-attachments/assets/e76a6f37-c66d-4c3b-a229-b9a865667175" />
 </div>
 
 ## Installation
