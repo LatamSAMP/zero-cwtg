@@ -14,35 +14,13 @@ Ready to use out of the box with full configuration support.
 ## Installation
 
 1. Download and extract the latest release
-2. Import database schemas (see Database Setup below)
-3. Configure `server/mysql.ini` with your database credentials
-4. Edit `scriptfiles/config.ini` with your server settings
-5. Start the server
-
-## Database Setup
-
-**Important:** Requires MySQL 5.6.
-
-1. Create the database and import schemas:
-   ```bash
-   mysql -u root -p -e "CREATE DATABASE zero;"
-   mysql -u root -p zero < database/player.sql
-   mysql -u root -p zero < database/match.sql
-   ```
-   Or simply copy and paste the files.
-
-2. Configure MySQL connection in `server/mysql.ini`:
-   ```ini
-   hostname=localhost
-   username=YOUR_USER
-   password=YOUR_PASSWORD
-   database=zero
-   server_port=3306
-   ```
+2. Configure `server/mysql.ini` with your database credentials
+3. Edit `scriptfiles/config.ini` with your server settings
+4. Start the server
 
 ## Configuration
 
-Everything is configurable from `scriptfiles/config.ini` without recompiling.
+Everything is configurable from `scriptfiles/config.ini`.
 
 **Main settings:**
 - `hostname` - Server name
