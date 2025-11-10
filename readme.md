@@ -1,9 +1,15 @@
-# Zero CW/TG
+<h1 align="center">Zero CW/TG</h1>
 
-A lightweight and multilanguage gamemode for Clan Wars and Training matches. Ready to use out of the box with full configuration support.
+<p align="center">
+A lightweight and multilanguage gamemode for Clan Wars and Training matches.
+</p>
+<p align="center">
+Ready to use out of the box with full configuration support.
+</p>
 
-<img width="1909" height="1007" alt="image" src="https://github.com/user-attachments/assets/6255288c-1a33-4fbb-958f-17d31be2152f" />
-
+<div align="center">
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/6255288c-1a33-4fbb-958f-17d31be2152f" />
+</div>
 
 ## Installation
 
