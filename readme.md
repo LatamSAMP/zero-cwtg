@@ -18,6 +18,8 @@ Ready to use out of the box with full configuration support.
 3. Edit `scriptfiles/config.ini` with your server settings
 4. Start the server
 
+To deploy the website free, see: [Zero Website](https://github.com/LatamSAMP/zero-cwtg-website)
+
 ## Configuration
 
 Everything is configurable from `scriptfiles/config.ini`.
