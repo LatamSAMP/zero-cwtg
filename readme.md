@@ -13,7 +13,7 @@ Ready to use out of the box with full configuration support.
 
 ## Installation
 
-1. Download and extract the latest release
+1. Download and extract the [latest release](https://github.com/LatamSAMP/zero-cwtg/releases/).
 2. Configure `server/mysql.ini` with your database credentials
 3. Edit `scriptfiles/config.ini` with your server settings
 4. Start the server
